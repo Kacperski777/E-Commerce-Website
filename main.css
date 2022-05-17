@@ -1,0 +1,30 @@
+body{
+    display:flex;
+    min-height: 100vh;
+    flex-direction: column;
+    background-color:  #f6f6f2;
+    font-family: 'Comfortaa', cursive;
+}
+
+main{
+    flex: 1 0 auto;
+}
+
+.eshop{
+    font-size: 7rem;
+
+}
+
+.para{
+    font-size: 2rem;
+
+}
+
+strong{
+    font-weight: bolder !important;
+}
+
+.inline-icon{
+    vertical-align: bottom;
+   font-size: 18px !important;
+}
